@@ -15,7 +15,7 @@ as my personal portfolio. This controller node's responsability is to receive th
 </table>
 
 ## Video
-Two videos exposing the functionality of the complete proyect.
+A video exposing the functionality of the complete proyect.
 
 https://youtu.be/R3nJAr5eoEk
 
