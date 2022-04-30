@@ -1,6 +1,6 @@
 # Autonomous garden irrigation system based on the Internet of Things - CONTROLLER NODE
 
-Autonomous garden irrigation system based on the Internet of Things, actuator node. This is part of my Bachelors degree thesis as well
+Autonomous garden irrigation system based on the Internet of Things, controller node. This is part of my Bachelors degree thesis as well
 as my personal portfolio. This controller node's responsability is to receive the data from the actuator every 10 seconds, and send commands to it. It was developed by Luis Espinosa Llanos and it was used the following technologies and tools: 
 
 <table style="width:100%">
