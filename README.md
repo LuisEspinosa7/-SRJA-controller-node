@@ -19,6 +19,12 @@ A video exposing the functionality of the complete proyect.
 
 https://youtu.be/R3nJAr5eoEk
 
+## And the other modules???
+You can find them here:
+
+- Web App: https://github.com/LuisEspinosa7/SRJA-web-app/edit/master/README.md
+- Actuator: https://github.com/LuisEspinosa7/SRJA-actuator-node
+
 
 ## Usage
 Please use the following command:
